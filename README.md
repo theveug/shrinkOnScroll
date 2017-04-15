@@ -3,7 +3,8 @@ Small jQuery plugin for making items shrink on scroll.
 
 **INSTALLATION:**
 
-Include `jquery.shrinkOnScroll.js` after you include jQueries library
+Include library : `jquery.shrinkOnScroll.js`
+
 **HTML**
 ```html
 <script type="text/javascript" src="jquery.shrinkOnScroll.js"></script>
